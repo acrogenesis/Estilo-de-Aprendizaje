@@ -1,0 +1,8 @@
+# ENV VARIABLES
+DOMAIN: "eda.bluehats.mx"
+MAILER_DOMAIN: ""
+SMTP_USER: ""
+SMTP_PWD: ""
+SENDER_EMAIL: ""
+SMTP_SERVER: ""
+SMTP_PORT: 
